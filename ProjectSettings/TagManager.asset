@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Mob
+  - Arrow
+  - Hitbox
+  - Pick-Ups
+  - Boss
+  - Prop
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Blocking
+  - Actors
+  - PickUps
+  - Weapon
+  - Player
+  - Hitbox
+  - EnemProj
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 4127980871
+    locked: 0
+  - name: Interactibles
+    uniqueID: 942097215
+    locked: 0
+  - name: Walls
+    uniqueID: 1360001155
+    locked: 0
+  - name: Creatures
+    uniqueID: 305587935
+    locked: 0
+  - name: Weapons
+    uniqueID: 2144664651
+    locked: 0
+  - name: Design
+    uniqueID: 3014944039
+    locked: 0
+  - name: Text
+    uniqueID: 883592099
+    locked: 0
